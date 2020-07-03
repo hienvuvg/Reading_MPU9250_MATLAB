@@ -1,4 +1,6 @@
-# Fixing wrong orientation of HelperOrientationViewer for Sensor Fusion and Tracking Toolbox on MATLAB.
+# Fixing wrong orientation of HelperOrientationViewer
+
+Fixing wrong orientation of HelperOrientationViewer for Sensor Fusion and Tracking Toolbox on MATLAB.
 
 This is the corrected function, please download and put the .m file to the following folder:
 
