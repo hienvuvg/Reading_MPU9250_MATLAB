@@ -2,7 +2,7 @@
 
 Fixing wrong orientation of HelperOrientationViewer for Sensor Fusion and Tracking Toolbox on MATLAB.
 
-readSensorDataMPU9250v2.m is the corrected function, please download and put the .m file to the following folder:
+readSensorDataMPU9250v2.m is the corrected function, please download and put the .m file to your project folder or the following folder:
 
 C:\...\Documents\MATLAB\Examples\R2019a\arduinoio\EstimatingOrientationUsingInertialSensorFusionAndMPU9250Example
 
